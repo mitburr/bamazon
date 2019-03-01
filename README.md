@@ -26,14 +26,11 @@
 
 <h3>First we see the typical CLI interface of the app</h3>
 
-<video width="696" height="1080" controls>
-  <source src="/bmazon/images/UserFlow.mp4" type="video/mp4">
-</video>
+![User flow example](bmazon/images/ServerChange.gif)
+
 
 
 
   <h3> Then we see that purchases by the user cause changes in the database.</h3>
 
-<video width="696" height="1080" controls>
-  <source src="/bmazon/images/ServerChange.mp4" type="video/mp4">
-</video>
+![database change demonstration](bmazon/images/ServerChange.gif)
