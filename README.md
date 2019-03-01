@@ -26,7 +26,7 @@
 
 <h3>First we see the typical CLI interface of the app</h3>
 
-![User flow example](bmazon/images/ServerChange.gif)
+![User flow example](bmazon/images/UserFlow.gif)
 
 
 
